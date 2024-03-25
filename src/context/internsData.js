@@ -1,0 +1,68 @@
+const internsData = [
+  {
+    id: 1,
+    name: "Ali Grace",
+    picture: "./src/assets/woman 1.webp",
+    program: "Front-End",
+    attandance: 95,
+    grade: 92,
+  },
+  {
+    id: 2,
+    name: "Vima Natt",
+    picture: "./srs/assets/man 1.webp",
+    program: "Back-End",
+    attandance: 71,
+    grade: 88,
+  },
+  {
+    id: 3,
+    name: "Caleb Okeke",
+    picture: "./srs/assets/man 2.webp",
+    program: "Web3",
+    attandance: 85.8,
+    grade: 95,
+  },
+  {
+    id: 4,
+    name: "Smith Fidson",
+    picture: "https://via.placeholder.com/150",
+    program: "UX/UI Design",
+    attandance: 90.5,
+    grade: 75,
+  },
+  {
+    id: 5,
+    name: "Oluchi Obi",
+    picture: "https://via.placeholder.com/150",
+    program: "Web3",
+    attandance: 70.8,
+    grade: 82.7,
+  },
+  {
+    id: 6,
+    name: "Priscillia Kenetth",
+    picture: "https://via.placeholder.com/150",
+    program: "UX/UI Design",
+    attandance: 70.8,
+    grade: 60,
+  },
+  {
+    id: 7,
+    name: "Chidiogor John",
+    picture: "https://via.placeholder.com/150",
+    program: "Front-End",
+    attandance: 68.8,
+    grade: 59,
+  },
+  {
+    id: 8,
+    name: "Chidubem Kendrix",
+    picture: "https://via.placeholder.com/150",
+    program: "Back-End",
+    attandance: 73.8,
+    grade: 85,
+  },
+];
+
+export default internsData;
